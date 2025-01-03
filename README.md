@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently in my final year at Brest State University.<br>🤝 I’m looking for help with improve knowledge <br>🌱 I’m currently learning java<br>⚡ Totally fascinated by linux. I use arch btw :)
+🔭 I'm currently in my final year at Brest State University.<br>🌱 I’m currently learning java<br>⚡ Totally fascinated by linux. I use arch btw :)
 
 
 ## 🌐 Socials:
