@@ -33,7 +33,7 @@ class Craacky {
 
 ---
 
-## 🧩 JetBrains-Style Dashboard
+## 🧩 Dashboard
 
 <div align="center">
 
