@@ -28,7 +28,7 @@ class Craacky {
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c#,spring,js,ts,react,html,css,git,docker,linux,vscode,idea,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,csharp,spring,js,ts,react,html,css,git,docker,linux,vscode,idea,mysql,postgresql&theme=dark" />
 </p>
 
 ---
