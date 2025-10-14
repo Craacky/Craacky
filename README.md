@@ -38,7 +38,6 @@ class Craacky {
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=craacky&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00BFFF&title_color=00BFFF&text_color=9f9f9f)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=craacky&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
