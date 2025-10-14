@@ -28,7 +28,7 @@ class Craacky {
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,git,docker,linux,vscode,idea,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c#,spring,js,ts,react,html,css,git,docker,linux,vscode,idea,mysql,postgresql&theme=dark" />
 </p>
 
 ---
@@ -67,9 +67,6 @@ class Craacky {
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-yakutin-272946238)
-[![Gmail](https://img.shields.io/badge/Email-c14438?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/craacky)
 
 ---
 
@@ -77,25 +74,12 @@ class Craacky {
 
 | Category | Tools |
 |-----------|--------|
-| 💻 **IDE** | JetBrains IntelliJ IDEA (Dark theme, JetBrainsMono Nerd Font) |
-| 🧠 **Languages** | Java • Kotlin • JavaScript • TypeScript |
-| 🗄️ **Databases** | PostgreSQL • SQLite |
+| 💻 **IDE** | JetBrains || VSCode |
+| 🧠 **Languages** | Java • Kotlin • JavaScript • TypeScript • C#|
+| 🗄️ **Databases** | PostgreSQL • SQLite • MySQL|
 | ⚡ **Frameworks** | Spring Boot • React |
 | 🎨 **Design** | Figma • TailwindCSS |
 | 🧑‍💻 **OS** | Arch Linux / Hyprland |
-
----
-
-## 📊 Weekly Dev Stats
-
-<!--START_SECTION:waka-->
-```txt
-Java         12 hrs ▓▓▓▓▓▓▓▓▓▓▓░░░░░  58.3 %
-JavaScript    5 hrs ▓▓▓▓▓░░░░░░░░░░░  23.4 %
-HTML/CSS      3 hrs ▓▓▓░░░░░░░░░░░░░  14.6 %
-Other         1 hr  ▓░░░░░░░░░░░░░░░  3.7 %
-```
-<!--END_SECTION:waka-->
 
 ---
 
