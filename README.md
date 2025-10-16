@@ -43,42 +43,9 @@ class Craacky {
 
 ---
 
-## 💾 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=craacky&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
-## 🪄 Developer Widgets
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=craacky&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=craacky&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-yakutin-272946238)
-
----
-
-## 🧰 Favorite Tools Setup
-
-| Category | Tools |
-|-----------|--------|
-| 💻 **IDE** | JetBrains || VSCode |
-| 🧠 **Languages** | Java • Kotlin • JavaScript • TypeScript • C#|
-| 🗄️ **Databases** | PostgreSQL • SQLite • MySQL|
-| ⚡ **Frameworks** | Spring Boot • React |
-| 🎨 **Design** | Figma • TailwindCSS |
-| 🧑‍💻 **OS** | Arch Linux / Hyprland |
 
 ---
 
