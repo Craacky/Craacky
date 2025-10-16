@@ -39,12 +39,6 @@ class Craacky {
 </div>
 
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-yakutin-272946238)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=craacky&style=flat-square&color=00BFFF" alt="profile views" />
 </p>
