@@ -14,7 +14,7 @@ I focus on designing **reliable APIs, async systems, and production-ready infras
 
 ### Frontend / Web
 
-![Web](https://skillicons.dev/icons?i=js,ts,nodejs,html,css)
+![Web](https://skillicons.dev/icons?i=js,ts,html,css)
 
 ### Systems & Low-Level
 
@@ -68,11 +68,9 @@ I focus on designing **reliable APIs, async systems, and production-ready infras
 
 # 📈 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Craacky\&show_icons=true\&hide_border=true\&theme=transparent)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Craacky\&hide_border=true\&theme=transparent)
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=Craacky\&theme=rogue\&area=true)
 
 ---
 
