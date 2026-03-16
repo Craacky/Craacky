@@ -30,41 +30,7 @@ I focus on designing **reliable APIs, async systems, and production-ready infras
 
 ---
 
-# 🧠 Areas of Focus
 
-* **Python Backend Engineering**
-
-  * FastAPI
-  * async architectures
-  * REST / service design
-  * PostgreSQL / MySQL / MSSQL
-
-* **High-performance systems**
-
-  * Redis caching
-  * vector databases (ChromaDB)
-  * scalable API patterns
-
-* **Full-stack integration**
-
-  * JS / TypeScript interaction layers
-  * client ↔ API workflows
-  * service orchestration
-
-* **Systems understanding**
-
-  * Java / Kotlin ecosystems
-  * C / C++
-  * Linux internals
-  * Assembly exploration (NASM)
-
-* **AI-assisted engineering**
-
-  * agent workflows
-  * model integration
-  * rapid prototyping pipelines
-
----
 
 # 📈 GitHub Activity
 
