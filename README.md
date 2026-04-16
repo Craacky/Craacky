@@ -8,12 +8,3 @@
 
 
 ---
-
-# 🧩 Current Direction
-
-* building **robust FastAPI services**
-* exploring **vector search & AI workflows**
-* improving **system design & backend architecture**
-* preparing **production-grade projects**
-
----
