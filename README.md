@@ -1,36 +1,5 @@
 # Craacky
 
-Backend-focused engineer building **high-performance Python services** and **clean full-stack flows** with JavaScript / TypeScript.
-
-I focus on designing **reliable APIs, async systems, and production-ready infrastructure** while staying close to lower-level technologies to understand how systems actually work.
-
----
-
-# ⚙️ Core Stack
-
-### Backend
-
-![Python](https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis)
-
-### Frontend / Web
-
-![Web](https://skillicons.dev/icons?i=js,ts,html,css)
-
-### Systems & Low-Level
-
-![Systems](https://skillicons.dev/icons?i=java,kotlin,cpp,c,linux)
-
-### DevOps / Tooling
-
-![DevOps](https://skillicons.dev/icons?i=docker,git,github,nginx)
-
-### AI / Data
-
-![AI](https://skillicons.dev/icons?i=pytorch)
-
----
-
-
 
 # 📈 GitHub Activity
 
