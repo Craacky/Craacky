@@ -34,7 +34,6 @@
 
 ```yaml
 role:        Mobile Developer
-specialty:   Multi-network HTML5 ad distribution
 background:  Android / Kotlin development
 in_progress: [Python backend (FastAPI, Docker), ML/AI engineering]
 philosophy:  "understand *why*, not just *how*"
