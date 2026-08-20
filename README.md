@@ -19,14 +19,14 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│ craacky@belarus                                               │
-│ ───────────────────                                           │
-│ OS:        Arch-based, Hyprland + Quickshell (hand-rolled)    │
-│ Shell:     zsh                                                │
-│ Focus:     Android/Kotlin                                     │
-│ Now:       Python/FastAPI, Docker, ML/NLP engineering         │
-│ Langs:     RU (native) · EN (working)                         │
-│ Uptime:    shipping since forever, sleep: optional            │
+│ craacky@belarus                                              │
+│ ───────────────────                                          │
+│ OS:        Arch-based, Hyprland + Quickshell (hand-rolled)   │
+│ Shell:     zsh                                               │
+│ Focus:     Android/Kotlin                                    │
+│ Now:       Python/FastAPI, Docker, ML/NLP engineering        │
+│ Langs:     RU (native) · EN (working)                        │
+│ Uptime:    shipping since forever, sleep: optional           │
 └──────────────────────────────────────────────────────────────┘
 ```
 
