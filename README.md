@@ -23,7 +23,7 @@
 │ ───────────────────                                           │
 │ OS:        Arch-based, Hyprland + Quickshell (hand-rolled)    │
 │ Shell:     zsh                                                │
-│ Focus:     Mobile UA · Playable Ads · Android/Kotlin          │
+│ Focus:     Android/Kotlin                                     │
 │ Now:       Python/FastAPI, Docker, ML/NLP engineering         │
 │ Langs:     RU (native) · EN (working)                         │
 │ Uptime:    shipping since forever, sleep: optional            │
@@ -33,10 +33,8 @@
 ### `> cat about.md`
 
 ```yaml
-role:        Mobile UA & Playable Ad Developer
+role:        Mobile Developer
 specialty:   Multi-network HTML5 ad distribution
-networks:    [AdMob, Meta Audience Network, ironSource/LevelPlay,
-              Mintegral, AppLovin, TikTok/Pangle, Vungle/Liftoff]
 background:  Android / Kotlin development
 in_progress: [Python backend (FastAPI, Docker), ML/AI engineering]
 philosophy:  "understand *why*, not just *how*"
@@ -82,10 +80,9 @@ philosophy:  "understand *why*, not just *how*"
 ### `> ./currently.sh`
 
 ```diff
-+ building:    HTML5 playable ads across 6+ ad networks
++ practice:    Android Development
 + learning:    FastAPI, Docker, ML/NLP fundamentals
 + tinkering:   a fully custom Hyprland/Quickshell desktop environment
-+ side-quest:  an Android on-device translator (ZH→RU, EN→RU)
 ```
 
 <div align="center">
